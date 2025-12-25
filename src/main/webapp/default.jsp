@@ -28,7 +28,7 @@
   <body>
     <tagfiles:header />
     <div id="hate" class="container snakes snake-hater">
-      <h1 class="cover-heading">Workingggggggggg</h1>
+      <h1 class="cover-heading">Checkinh by updating code and commit</h1>
       <p class="lead">A safety resource for snake haters.</p>
       <!--Intro -->
       <h2>Second change</h2>
@@ -81,6 +81,7 @@
     <script src="js/init.js"></script>
   </body>
 </html>
+
 
 
 
