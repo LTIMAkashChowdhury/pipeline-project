@@ -28,7 +28,7 @@
   <body>
     <tagfiles:header />
     <div id="hate" class="container snakes snake-hater">
-      <h1 class="cover-heading">Updating github webhook trigger with Merge request and checking</h1>
+      <h1 class="cover-heading">Updating github webhook trigger with Merge request and checking if working</h1>
       <p class="lead">A safety resource for snake haters.</p>
       <!--Intro -->
       <h2>Second change</h2>
